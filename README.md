@@ -146,8 +146,8 @@ Our CTF write-ups are available in [redfox-ctf-writeups](https://github.com/Team
 <tr>
 <td align="center" width="200">
 
-<a href="https://github.com/ISHANT_GITHUB_USERNAME">
-<img src="https://github.com/ISHANT_GITHUB_USERNAME.png?size=200" width="110" alt="Ishant Choudhary"/>
+<a href="https://github.com/griffin-dox">
+<img src="https://github.com/griffin-dox.png?size=200" width="110" alt="Ishant Choudhary"/>
 <br/><b>Ishant Choudhary</b>
 </a>
 
