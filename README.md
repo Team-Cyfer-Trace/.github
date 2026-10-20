@@ -155,7 +155,7 @@ Our CTF write-ups are available in [redfox-ctf-writeups](https://github.com/Team
 
 <br/><br/>
 
-<a href="https://github.com/ISHANT_GITHUB_USERNAME">
+<a href="https://github.com/griffin-dox">
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github" alt="GitHub"/>
 </a>
 <a href="https://www.linkedin.com/in/choudhary-ishant/">
